@@ -1,0 +1,12 @@
+D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\bin\Debug\HarryPotter2002-2003.mdb
+D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\bin\Debug\HarryPotter.exe.config
+D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\bin\Debug\HarryPotter.exe
+D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\bin\Debug\HarryPotter.pdb
+D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csproj.AssemblyReference.cache
+D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.Form1.resources
+D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.Properties.Resources.resources
+D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csproj.GenerateResource.cache
+D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csproj.CoreCompileInputs.cache
+D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.exe
+D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.pdb
+D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.Form2.resources
