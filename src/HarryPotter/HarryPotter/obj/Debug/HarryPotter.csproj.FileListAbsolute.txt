@@ -10,3 +10,16 @@ D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.cspro
 D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.exe
 D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.pdb
 D:\GitRep\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.Form2.resources
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\bin\Debug\HarryPotter2002-2003.mdb
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\bin\Debug\HarryPotter.exe.config
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\bin\Debug\HarryPotter.exe
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\bin\Debug\HarryPotter.pdb
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csproj.AssemblyReference.cache
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csproj.SuggestedBindingRedirects.cache
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.Form1.resources
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.Form2.resources
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.Properties.Resources.resources
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csproj.GenerateResource.cache
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csproj.CoreCompileInputs.cache
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.exe
+D:\GitРепозитории\LaboratoryWork\src\HarryPotter\HarryPotter\obj\Debug\HarryPotter.pdb
